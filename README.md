@@ -26,8 +26,8 @@
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
 | [OncoKnowledge AI](https://github.com/Rocky779/OncoKnowledgeAI) | Python, Flask, React, AWS, LangChain | RAG-based cancer knowledge tool with sentiment-aware responses and AWS Cognito authentication. |
-| [Campus Analytics](https://github.com/Rocky779/Campus-Analytics) | TypeScript, Express, React, Google Maps API | Visualizes UBC rooms & walking times with robust backend data handling and TDD. |
-| [To-Do List App](https://github.com/Rocky779/To-Do-List) | Express, MongoDB, EJS | Multi-list task manager with dynamic server-side rendering. |
+| [Campus Analytics](https://github.com/Rocky779/CampusAnalytics) | TypeScript, Express, React, Google Maps API | Visualizes UBC rooms & walking times with robust backend data handling and TDD. |
+| [To-Do List App](https://github.com/Rocky779/Todolist_v1) | Express, MongoDB, EJS | Multi-list task manager with dynamic server-side rendering. |
 | [Banking Application](https://github.com/Rocky779/Banking-Application) | Java, Swing, JSON | GUI-based banking system with transactions, account management, and JUnit-tested reliability. |
 
 ---
