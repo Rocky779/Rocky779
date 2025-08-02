@@ -1,5 +1,3 @@
-<div style="background-color:#0d1117; padding:20px; border-radius:10px; color:white;">
-
 <!-- Profile Header -->
 <h1 align="center">
   Hey 👋, I'm Rishi  
@@ -16,7 +14,7 @@
 ---
 
 ## 🔥 Currently Working On
-### 🥔 <a href="https://github.com/Rocky779/PotatoDisease" style="color:white;">Potato Disease Classifier</a>
+### 🥔 [Potato Disease Classifier](https://github.com/Rocky779/PotatoDisease)
 - 📱 React Native mobile app for **potato leaf disease detection** from images.
 - 🧠 Built and trained **CNN model** (TensorFlow/Keras) – **95% test accuracy**.
 - ⚙️ Backend with **FastAPI**; working towards deployment on **Google Cloud Platform**.
@@ -41,9 +39,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ⚡ *“Building tools from plant disease classifiers to AI-powered cancer research assistants.”*
-</p>
-
-</div>
