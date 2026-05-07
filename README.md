@@ -13,11 +13,10 @@
 
 ---
 
-## 🔥 Currently Working On
-### 🥔 [Potato Disease Classifier](https://github.com/Rocky779/PotatoDisease)
-- 📱 React Native mobile app for **potato leaf disease detection** from images.
-- 🧠 Built and trained **CNN model** (TensorFlow/Keras) – **95% test accuracy**.
-- ⚙️ Backend with **FastAPI**; working towards deployment on **Google Cloud Platform**.
+## 💼 Experience Snapshot
+- 📊 Digital Product Analyst @ Nova Scotia Power — working on UX analytics, GA4 insights, dashboards, and Agile sprint delivery for a 550K+ user platform.  
+- 🛠️ IT Technician @ Technip Energies — supported enterprise IT operations, device lifecycle management, and identity/access systems for 50+ users.  
+- 🛰️ Front-End Developer @ UBC ORBIT Satellite Team — built mission-critical UI components and contributed to CI/CD workflows in a multi-developer environment.  
 
 ---
 
@@ -37,5 +36,3 @@
   <a href="mailto:rsa27777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Rocky779"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
