@@ -4,11 +4,11 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer" alt="Typing SVG" />
+  Product Analyst | Problem Solver | UBC CS Student
 </h3>
 
 <p align="center">
-  🚀 Developer • Problem Solver • 4th Year CS @ UBC  
+  📊 Product Analyst • Builder • 4th Year CS @ UBC  
 </p>
 
 ---
